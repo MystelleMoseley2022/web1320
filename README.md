@@ -2,5 +2,5 @@
 
 <ul>
 <li><a href="https://mystellemoseley2022.github.io/web1320/">Lab_1</a></li>
-<li><a hrf="Lab2/index.html" target="_blank">Lab_2</a><li>
+<li><a hrf="Lab_2/index.html" target="_blank">Lab_2</a></li>
 </ul>
