@@ -13,13 +13,13 @@ img {
 /* Mobile Styles */
 
 #container {
-    background-color:#4ED9BF;
+    background-color:#C228F7;
     margin: 20px;
 }
 
 header {
     padding: 60px 40px;
-    border-bottom: 4px solid #F2BE5C;
+    border-bottom: 4px solid #182396;
 }
 
 header h1 {
@@ -29,7 +29,7 @@ header h1 {
 }
 
 .col {
-    border: 4px solid #F2BE5C;
+    border: 4px solid #182396;
     padding: 20px;
     margin: 20px;
     border-radius: 20px;
@@ -52,7 +52,7 @@ header h1 {
 footer {
     padding: 60px 0;
     text-align: center;
-    border-top: 4px solid #F2BE5C;
+    border-top: 4px solid #182396;
     font-weight: bold;
     font-family: 'Roboto Mono', monospace;
     font-size: 1em;
